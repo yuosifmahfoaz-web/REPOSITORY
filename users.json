@@ -1,12 +1,13 @@
 {
-  "users": {
-    "ahmad": {
-      "uuid": [
-        "c86f449d-abe5-452e-aa6a-f5b38f1a4679",
-        "another-device-id"
-      ],
-      "expires": "2026-09-30",
-      "active": true
+    "users": {
+        "ahmad": {
+            "code": "SAVAGE-82K9X",
+            "uuid": [
+                "c86f449d-abe5-452e-aa6a-f5b38f1a4679",
+                "another-device-id"
+            ],
+            "expires": "2026-09-30",
+            "active": true
+        }
     }
-  }
 }
