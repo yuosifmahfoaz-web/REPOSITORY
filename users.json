@@ -1,0 +1,13 @@
+{
+    "users": {
+        "ahmad": {
+            "code": "SAVAGE-82K9X",
+            "active": true,
+            "expires": "2026-09-30",
+            "devices": [
+                "DEVICE_ID_1",
+                "DEVICE_ID_2"
+            ]
+        }
+    }
+}
