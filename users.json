@@ -1,9 +1,6 @@
 {
   "users": {
     "TEMO": {
-      "uuid": [
-        "48c88ec8-8d87-43f8-91a7-410cfad78e0a"
-      ],
       "expires": "2026-09-30",
       "active": true
     }
