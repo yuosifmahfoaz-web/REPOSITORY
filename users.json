@@ -1,12 +1,11 @@
 {
-    "users": {
-        "TE,O": {
-            "uuid": [
-                "c40bb2e0-62cd-40bc-be5b-1403ac11e7ac",
-                "another-device-id"
-            ],
-            "expires": "2026-09-30",
-            "active": true
-        }
+  "users": {
+    "TE,O": {
+      "uuid": [
+        "c40bb2e0-62cd-40bc-be5b-1403ac11e7ac"
+      ],
+      "expires": "2026-09-30",
+      "active": true
     }
+  }
 }
